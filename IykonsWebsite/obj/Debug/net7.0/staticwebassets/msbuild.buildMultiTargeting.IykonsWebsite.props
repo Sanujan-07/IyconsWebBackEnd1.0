@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IykonsWebsite.props" />
+</Project>
